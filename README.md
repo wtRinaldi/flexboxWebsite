@@ -1,5 +1,5 @@
 # flexboxWebsite
 
-Ficticious Website created using flexbox & animation.
+Repsonsive website created using flexbox & animation.
 
 https://wtrinaldi.github.io/flexboxWebsite/
